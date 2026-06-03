@@ -13,13 +13,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20yaml-json-v232%20%F0%9F%9A%80;%3E%20Built%20using%20Python%20%7C%20Optimized%20%26%20Secure;%3E%20Translates%20config%20YAML%20fields%20to%20readabl...)](https://github.com/VarshuAi/yaml-json-v232)
+<a href="https://github.com/VarshuAi/yaml-json-v232"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20yaml-json-v232%20%F0%9F%9A%80;%3E%20Built%20using%20Python%20%7C%20Optimized%20%26%20Secure;%3E%20Translates%20config%20YAML%20fields%20to%20readabl..." alt="Typing SVG"/></a>
 
 <br/>
 
-![Version](https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black)
-![Language](https://img.shields.io/badge/Python-Tech-00CC66?style=for-the-badge&logo=python&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Version"/>
+<img src="https://img.shields.io/badge/Python-Tech-00CC66?style=for-the-badge&logo=python&logoColor=black" alt="Language"/>
+<img src="https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white" alt="Status"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:00150A,50:002D1A,75:00150A,100:000000&height=60&section=header&text=&fontSize=0" width="100%"/>
 
@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Translates config YAML fields to readable JSON blocks. [Variant 232 using PYTHON with Solarized_Light theme]  ---
+  Translates config YAML fields to readable JSON blocks. [Variant 232 using PYTHON with Solarized_Light theme]
 primary_tech: Python
 ```
 
@@ -68,16 +68,13 @@ primary_tech: Python
 <samp>&nbsp;COMMANDS & USAGE</samp>
 </h2>
 
-### Requirements
-Ensure you have the required runtime environment installed (PYTHON).
-
-### Execution
-Clone the repository and run:
 ```bash
-git clone https://github.com/VarshuAi/yaml-json-v232.git
-cd yaml-json-v232
+# Setup virtual environment & run
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+pip install -r requirements.txt
+python main.py
 ```
-Run the master script or compile the executable entry point.
 
 <!-- ============================== TECH STACK ============================== -->
 
@@ -134,12 +131,12 @@ yaml-json-v232/
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite.)](https://github.com/VarshuAi)
+<a href="https://github.com/VarshuAi"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite." alt="Typing SVG"/></a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi)
-[![Repo](https://img.shields.io/badge/yaml-json-v232-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi/yaml-json-v232)
+<a href="https://github.com/VarshuAi"><img src="https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile"/></a>
+<a href="https://github.com/VarshuAi/yaml-json-v232"><img src="https://img.shields.io/badge/yaml-json-v232-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black" alt="Repository"/></a>
 
 <br/>
 
