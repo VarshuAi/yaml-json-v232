@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Translates config YAML fields to readable JSON blocks. [Variant 232 using PYTHON with Solarized_Light theme]
+  name: yaml-json-v232 version: 1.0 type: Repository author: VarshuAi description: >   Translates config YAML fields to readable JSON blocks. [Variant 232 using PYTHON with Solarized_Light theme] primary_tech: Python
 primary_tech: Python
 ```
 
